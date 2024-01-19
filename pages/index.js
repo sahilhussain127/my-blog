@@ -8,7 +8,7 @@ export default function Home() {
     <div>
       <h1 className="font-bold before:text-gray-400 text-3xl">
         {" "}
-        Hello ! SAHIL HUSSAIN
+        Hello ! SAHIL HUSSAIN x Devel
       </h1>
     </div>
   );
